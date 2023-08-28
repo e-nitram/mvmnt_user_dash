@@ -1,0 +1,77 @@
+{
+  "FOOTER": {
+    "SHOP": "Boutique",
+    "COMPANY": "Entreprise",
+    "SUPPORT": "Support",
+    "TERMS": "Conditions",
+    "REGION": "Région",
+    "COPYRIGHT": "@ Lxgic Inc. Tous droits réservés.",
+    "LIST": {
+      "INFLUENCERS": "Influenceurs",
+      "BRANDS": "Marques",
+      "CATEGORIES": "Catégories",
+      "ABOUT_US": "À propos de nous",
+      "CAREERS": "Carrières",
+      "BLOG": "Blog",
+      "TWITTER": "Twitter",
+      "INSTAGRAM": "Instagram",
+      "FACEBOOK": "Facebook",
+      "PARTNERS": "Partenaires",
+      "HELP_GUIDE": "Aide / Guide",
+      "TERMS": "Conditions d'utilisation",
+      "PRIVACY_POLICY": "Politique de confidentialité",
+      "LICENSES": "Licences",
+      "PROHIBITED_ITEMS": "Articles interdits"
+    }
+  },
+  "AUTH": {
+    "REGISTER": {
+      "TITLE": "Inscription",
+      "DESCRIPTIONS": [
+        "Veuillez vous inscrire pour commencer vos achats sur MVMNT",
+        "※Seuls les comptes autorisés pourront publier des offres"
+      ],
+      "BUTTON": "S'inscrire",
+      "INDIVIDUAL_CARD": {
+        "TITLE": "S'inscrire en tant que compte individuel",
+        "DESCRIPTIONS": [
+          {
+            "TITLE": "Type d'utilisateur 1 : Personnel",
+            "LIST": [
+              { "VALUE": "L'utilisateur ne peut publier que des enchères sous la revue de l'administrateur." }
+            ]
+          },
+          {
+            "TITLE": "Type d'utilisateur 2 : Influenceur",
+            "LIST": [
+              { "VALUE": "L'utilisateur peut publier des enchères et des tirages au sort sans revue de l'administrateur." },
+              {
+                "VALUE": "L'utilisateur peut publier des enchères et des tirages au sort sans revue de l'administrateur.",
+                "LIST": [
+                  "Le nombre de followers des comptes SNS intégrés est supérieur à la référence de discovxr.",
+                  "Obtenu plus de 5 approbations pour la publication d'enchères avec un compte de type général."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "BUSINESS_CARD": {
+        "TITLE": "S'inscrire en tant que compte professionnel",
+        "DESCRIPTIONS": [
+          {
+            "TITLE": "Type d'utilisateur : Entrepreneur individuel / Société",
+            "LIST": [
+              { "VALUE": "Utilisateur possédant une marque et ayant des articles à vendre." },
+              { "VALUE": "L'utilisateur peut publier des enchères, des tirages au sort et des achats sans revue de l'administrateur." },
+              { "VALUE": "L'utilisateur sera affecté en tant que compte d'entreprise sous la revue de MVMNT." }
+            ]
+          }
+        ],
+        "INPUT_LABEL": "Ajouter l'URL de la page de la marque pour l'examen",
+        "PLACEHOLDER": "Ajouter l'URL de la page de la marque",
+        "TEXT": "Ajoutez l'URL de la page de la marque pour l'examen. Veuillez intégrer le compte SNS de la marque pour prouver que vous possédez la marque."
+      }
+    }
+  }
+}

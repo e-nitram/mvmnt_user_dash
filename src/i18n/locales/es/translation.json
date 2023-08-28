@@ -1,0 +1,77 @@
+{
+  "FOOTER": {
+    "SHOP": "Tienda",
+    "COMPANY": "Empresa",
+    "SUPPORT": "Soporte",
+    "TERMS": "Términos",
+    "REGION": "Región",
+    "COPYRIGHT": "@ Lxgic Inc. Todos los derechos reservados.",
+    "LIST": {
+      "INFLUENCERS": "Influencers",
+      "BRANDS": "Marcas",
+      "CATEGORIES": "Categorías",
+      "ABOUT_US": "Sobre nosotros",
+      "CAREERS": "Carreras",
+      "BLOG": "Blog",
+      "TWITTER": "Twitter",
+      "INSTAGRAM": "Instagram",
+      "FACEBOOK": "Facebook",
+      "PARTNERS": "Socios",
+      "HELP_GUIDE": "Ayuda / Guía",
+      "TERMS": "Términos de uso",
+      "PRIVACY_POLICY": "Política de privacidad",
+      "LICENSES": "Licencias",
+      "PROHIBITED_ITEMS": "Artículos prohibidos"
+    }
+  },
+  "AUTH": {
+    "REGISTER": {
+      "TITLE": "Registro",
+      "DESCRIPTIONS": [
+        "Por favor, regístrese para comenzar a comprar en MVMNT",
+        "※Solo las cuentas autorizadas podrán publicar ofertas"
+      ],
+      "BUTTON": "Registrarse",
+      "INDIVIDUAL_CARD": {
+        "TITLE": "Registrarse como cuenta individual",
+        "DESCRIPTIONS": [
+          {
+            "TITLE": "Tipo de usuario 1: Personal",
+            "LIST": [
+              { "VALUE": "El usuario solo puede publicar subastas bajo la revisión del administrador." }
+            ]
+          },
+          {
+            "TITLE": "Tipo de usuario 2: Influencer",
+            "LIST": [
+              { "VALUE": "El usuario puede publicar subastas y rifas sin revisión del administrador." },
+              {
+                "VALUE": "El usuario puede publicar subastas y rifas sin revisión del administrador.",
+                "LIST": [
+                  "El número de seguidores de las cuentas de redes sociales integradas es mayor que el benchmark de discovxr.",
+                  "Ha obtenido más de 5 aprobaciones para la publicación de subastas con una cuenta de tipo general."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "BUSINESS_CARD": {
+        "TITLE": "Registrarse como cuenta de empresa",
+        "DESCRIPTIONS": [
+          {
+            "TITLE": "Tipo de usuario: Propietario único / Corporación",
+            "LIST": [
+              { "VALUE": "Usuario que posee una marca y tiene artículos para vender." },
+              { "VALUE": "El usuario puede publicar subastas, rifas y compras sin revisión del administrador." },
+              { "VALUE": "El usuario será asignado como una cuenta de empresa bajo revisión de MVMNT." }
+            ]
+          }
+        ],
+        "INPUT_LABEL": "Agregar URL de la página de la marca para revisión",
+        "PLACEHOLDER": "Agregar URL de la página de la marca",
+        "TEXT": "Agregar URL de la página de la marca para revisión. Por favor, integre la cuenta de redes sociales de la marca para demostrar que usted es el propietario de la marca."
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "FOOTER": {
+    "SHOP": "购物",
+    "COMPANY": "公司",
+    "SUPPORT": "支持",
+    "TERMS": "条款",
+    "REGION": "地区",
+    "COPYRIGHT": "@ Lxgic公司。版权所有。",
+    "LIST": {
+      "INFLUENCERS": "影响者",
+      "BRANDS": "品牌",
+      "CATEGORIES": "分类",
+      "ABOUT_US": "关于我们",
+      "CAREERS": "职业",
+      "BLOG": "博客",
+      "TWITTER": "推特",
+      "INSTAGRAM": "Instagram",
+      "FACEBOOK": "Facebook",
+      "PARTNERS": "合作伙伴",
+      "HELP_GUIDE": "帮助 / 指南",
+      "TERMS": "使用条款",
+      "PRIVACY_POLICY": "隐私政策",
+      "LICENSES": "许可证",
+      "PROHIBITED_ITEMS": "禁止物品"
+    }
+  },
+  "AUTH": {
+    "REGISTER": {
+      "TITLE": "注册",
+      "DESCRIPTIONS": [
+        "请注册以开始在MVMNT上购物",
+        "※仅授权账户可以发布交易"
+      ],
+      "BUTTON": "注册",
+      "INDIVIDUAL_CARD": {
+        "TITLE": "注册个人账户",
+        "DESCRIPTIONS": [
+          {
+            "TITLE": "用户类型1：个人",
+            "LIST": [
+              { "VALUE": "用户只能在管理员审核下发布拍卖。" }
+            ]
+          },
+          {
+            "TITLE": "用户类型2：影响者",
+            "LIST": [
+              { "VALUE": "用户可以在没有管理员审核的情况下发布拍卖和抽奖。" },
+              {
+                "VALUE": "用户可以在没有管理员审核的情况下发布拍卖和抽奖。",
+                "LIST": [
+                  "整合的社交媒体账户的关注者数量超过discovxr的基准。",
+                  "以普通类型账户发布拍卖获得了5个以上的批准。"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "BUSINESS_CARD": {
+        "TITLE": "注册商业账户",
+        "DESCRIPTIONS": [
+          {
+            "TITLE": "用户类型：独资经营 / 公司",
+            "LIST": [
+              { "VALUE": "拥有品牌并有物品出售的用户。" },
+              { "VALUE": "用户可以在没有管理员审核的情况下发布拍卖、抽奖和购物。" },
+              { "VALUE": "用户将被分配为MVMNT审核下的公司账户。" }
+            ]
+          }
+        ],
+        "INPUT_LABEL": "添加品牌页面链接以供审核",
+        "PLACEHOLDER": "添加品牌页面链接",
+        "TEXT": "添加品牌页面链接以供审核。请与品牌的社交媒体账户整合，以证明您拥有该品牌。"
+      }
+    }
+  }
+}

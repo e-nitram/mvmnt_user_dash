@@ -1,0 +1,77 @@
+{
+  "FOOTER": {
+    "SHOP": "Einkaufen",
+    "COMPANY": "Unternehmen",
+    "SUPPORT": "Unterstützung",
+    "TERMS": "Nutzungsbedingungen",
+    "REGION": "Region",
+    "COPYRIGHT": "@ Lxgic Inc. Alle Rechte vorbehalten.",
+    "LIST": {
+      "INFLUENCERS": "Beeinflusser",
+      "BRANDS": "Marken",
+      "CATEGORIES": "Kategorien",
+      "ABOUT_US": "Über uns",
+      "CAREERS": "Karriere",
+      "BLOG": "Blog",
+      "TWITTER": "Twitter",
+      "INSTAGRAM": "Instagram",
+      "FACEBOOK": "Facebook",
+      "PARTNERS": "Partner",
+      "HELP_GUIDE": "Hilfe / Anleitung",
+      "TERMS": "Nutzungsbedingungen",
+      "PRIVACY_POLICY": "Datenschutzrichtlinie",
+      "LICENSES": "Lizenzen",
+      "PROHIBITED_ITEMS": "Verbotene Artikel"
+    }
+  },
+  "AUTH": {
+    "REGISTER": {
+      "TITLE": "Registrierung",
+      "DESCRIPTIONS": [
+        "Bitte registrieren Sie sich, um mit dem Einkaufen auf MVMNT zu beginnen.",
+        "※Nur autorisierte Konten können Angebote veröffentlichen."
+      ],
+      "BUTTON": "Anmelden",
+      "INDIVIDUAL_CARD": {
+        "TITLE": "Als Einzelkonto registrieren",
+        "DESCRIPTIONS": [
+          {
+            "TITLE": "Benutzertyp 1: Persönlich",
+            "LIST": [
+              { "VALUE": "Benutzer kann nur Auktionen unter Überprüfung durch den Administrator veröffentlichen." }
+            ]
+          },
+          {
+            "TITLE": "Benutzertyp 2: Beeinflusser",
+            "LIST": [
+              { "VALUE": "Benutzer kann Auktionen und Verlosungen ohne Überprüfung durch den Administrator veröffentlichen." },
+              {
+                "VALUE": "Benutzer kann Auktionen und Verlosungen ohne Überprüfung durch den Administrator veröffentlichen.",
+                "LIST": [
+                  "Die Follower-Anzahl der integrierten SNS-Konten ist größer als der Benchmark von discovxr.",
+                  "Mehr als 5 Genehmigungen für das Veröffentlichen von Auktionen mit einem allgemeinen Kontotyp erhalten."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "BUSINESS_CARD": {
+        "TITLE": "Als Geschäftskonto registrieren",
+        "DESCRIPTIONS": [
+          {
+            "TITLE": "Benutzertyp: Einzelunternehmer / Unternehmen",
+            "LIST": [
+              { "VALUE": "Benutzer, der eine Marke besitzt und Artikel zum Verkauf hat." },
+              { "VALUE": "Benutzer kann Auktionen, Verlosungen und Einkäufe ohne Überprüfung durch den Administrator veröffentlichen." },
+              { "VALUE": "Benutzer wird als Unternehmenskonto unter MVMNT-Prüfung zugewiesen." }
+            ]
+          }
+        ],
+        "INPUT_LABEL": "Fügen Sie die URL der Markenseite zur Überprüfung hinzu",
+        "PLACEHOLDER": "URL der Markenseite hinzufügen",
+        "TEXT": "Fügen Sie die URL der Markenseite zur Überprüfung hinzu. Integrieren Sie bitte das SNS-Konto der Marke, um zu beweisen, dass Sie die Marke besitzen."
+      }
+    }
+  }
+}

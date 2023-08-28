@@ -1,0 +1,4 @@
+export const AUTH_LOGIN = 'AUTH_LOGIN'
+export const AUTH_LOGOUT = 'AUTH_LOGOUT'
+export const AUTH_SET_BRAND_URL = 'AUTH_SET_BRAND_URL'
+export const AUTH_SET_QRCODE = 'AUTH_SET_QRCODE'

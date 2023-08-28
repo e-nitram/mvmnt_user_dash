@@ -1,0 +1,77 @@
+{
+  "FOOTER": {
+    "SHOP": "Negozio",
+    "COMPANY": "Azienda",
+    "SUPPORT": "Supporto",
+    "TERMS": "Termini",
+    "REGION": "Regione",
+    "COPYRIGHT": "@ Lxgic Inc. Tutti i diritti riservati.",
+    "LIST": {
+      "INFLUENCERS": "Influencer",
+      "BRANDS": "Marche",
+      "CATEGORIES": "Categorie",
+      "ABOUT_US": "Chi siamo",
+      "CAREERS": "Carriere",
+      "BLOG": "Blog",
+      "TWITTER": "Twitter",
+      "INSTAGRAM": "Instagram",
+      "FACEBOOK": "Facebook",
+      "PARTNERS": "Partner",
+      "HELP_GUIDE": "Aiuto / Guida",
+      "TERMS": "Termini d'uso",
+      "PRIVACY_POLICY": "Politica sulla privacy",
+      "LICENSES": "Licenze",
+      "PROHIBITED_ITEMS": "Articoli vietati"
+    }
+  },
+  "AUTH": {
+    "REGISTER": {
+      "TITLE": "Registrazione",
+      "DESCRIPTIONS": [
+        "Si prega di registrarsi per iniziare gli acquisti su MVMNT",
+        "※Solo gli account autorizzati saranno in grado di pubblicare offerte"
+      ],
+      "BUTTON": "Iscriviti",
+      "INDIVIDUAL_CARD": {
+        "TITLE": "Registrati come account individuale",
+        "DESCRIPTIONS": [
+          {
+            "TITLE": "Tipo di utente 1: Personale",
+            "LIST": [
+              { "VALUE": "L'utente può pubblicare solo aste sotto la revisione dell'amministratore." }
+            ]
+          },
+          {
+            "TITLE": "Tipo di utente 2: Influencer",
+            "LIST": [
+              { "VALUE": "L'utente può pubblicare aste e estrazioni senza revisione dell'amministratore." },
+              {
+                "VALUE": "L'utente può pubblicare aste e estrazioni senza revisione dell'amministratore.",
+                "LIST": [
+                  "Il numero di follower degli account SNS integrati è maggiore del benchmark di discovxr.",
+                  "Hanno ottenuto più di 5 approvazioni per la pubblicazione di aste con un account di tipo generale."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "BUSINESS_CARD": {
+        "TITLE": "Registrati come account aziendale",
+        "DESCRIPTIONS": [
+          {
+            "TITLE": "Tipo di utente: Imprenditore individuale / Società",
+            "LIST": [
+              { "VALUE": "Utente che possiede un marchio e ha articoli da vendere." },
+              { "VALUE": "L'utente può pubblicare aste, estrazioni e acquisti senza revisione dell'amministratore." },
+              { "VALUE": "L'utente verrà assegnato come account aziendale sotto la revisione di MVMNT." }
+            ]
+          }
+        ],
+        "INPUT_LABEL": "Aggiungi l'URL della pagina del marchio per la revisione",
+        "PLACEHOLDER": "Aggiungi l'URL della pagina del marchio",
+        "TEXT": "Aggiungi l'URL della pagina del marchio per la revisione. Integra il conto SNS del marchio per dimostrare di possedere il marchio."
+      }
+    }
+  }
+}
